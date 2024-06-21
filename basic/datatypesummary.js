@@ -27,7 +27,11 @@ types of memory
 let myname="himanshu";
 let newnm = myname;
 newnm ="barnawal";
-console.log(myname);
-console.log(newnm);
+// console.log(myname);
+// console.log(newnm);
+console.log(null>=0);
+console.log(null<=0);
+console.log(null=0);
+
 
  
